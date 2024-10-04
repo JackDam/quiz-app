@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+.question {
+    font-weight: bold;
+    margin-top: 20px;
+}
+
+.options {
+    margin-top: 10px;
+}
+
+#submitButton {
+    margin-top: 20px;
+}
+
+#result {
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+#explanation {
+    margin-top: 10px;
+    color: gray;
+}
